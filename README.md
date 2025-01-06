@@ -38,22 +38,22 @@ I'm a passionate full-stack developer who loves to create and contribute to open
         <span> <a href="https://github.com/mkae8/pet-adoption" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white">
         </a>
-        <a href="https://pet-adoption-demo.vercel.app" target="_blank">
+        <a href="https://pet-adopt-nu.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/-Demo-FF5722?style=flat-square&logo=vercel&logoColor=white">
         </a> </span>
         <p>A full-stack application for connecting pets with loving homes. Built with React, Node.js, and MongoDB.</p>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">Portfolio</h3>
       <p align="center">
         <a href="https://github.com/mkae8/project-2" target="_blank">
           <img src="https://via.placeholder.com/300x200?text=Project+2" width="300" alt="Project 2">
         </a>
-        <span> <a href="https://github.com/mkae8/project-2" target="_blank">
+        <span> <a href="https://github.com/mkae8/Temuujin-Portfolio" target="_blank">
           <img src="https://img.shields.io/badge/-Repo-000?style=flat-square&logo=github&logoColor=white">
         </a>
-        <a href="https://project-2-demo.vercel.app" target="_blank">
+        <a href="https://temuujin-portfolio.vercel.app" target="_blank">
           <img src="https://img.shields.io/badge/-Demo-FF5722?style=flat-square&logo=vercel&logoColor=white">
         </a> </span>
         <p>Brief description of Project 2.</p>
