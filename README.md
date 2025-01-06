@@ -1,84 +1,87 @@
 <h1 align="center">Hi there, I'm Temuujin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Full-stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
 </p>
 
 <div align="center">
   <a href="mailto:mkae.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mkae.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-mkae.dev%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
+  &nbsp;
   <a href="https://instagram.com/mkae8">
-    <img src="https://img.shields.io/badge/Instagram-@mkae8-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-@mkae8-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who loves to create and contribute to open-source projects. Currently, I'm leading a Pet Adoption project and always excited to learn new technologies.
+```javascript
+const Temuujin = {
+  role: "Software Engineer",
+  location: "Mongolia",
+  code: ["TypeScript", "JavaScript", "HTML", "CSS"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    tools: ["Clerk", "Cloudflare", "Cloudinary", "Vercel", "Render"],
+    current: "Full Stack Development"
+  },
+  challenge: "Building scalable applications with clean architecture"
+};
+```
 
 ## 🔧 Technologies & Tools
 
-### Frontend
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Services
+![Clerk](https://img.shields.io/badge/-Clerk-4B5563?style=for-the-badge&logo=clerk&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Clerk](https://img.shields.io/badge/-Clerk-4B5563?style=flat-square&logo=clerk&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+</div>
 
 ## 🌟 Portfolio Website
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>Portfolio Website</h3>
-        <a href="https://temuujin-portfolio.vercel.app" target="_blank">
-        </a>
-        <br>
-        <span>
-          <a href="https://github.com/mkae8/Temuujin-Portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/-Repository-000?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-          <a href="https://temuujin-portfolio.vercel.app" target="_blank">
-            <img src="https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white">
-          </a>
-        </span>
-        <p>My personal portfolio website showcasing my projects and skills. Built with Next.js, Tailwind CSS, and Framer Motion.</p>
-      </td>
-    </tr>
-  </table>
+  <h3>Portfolio Website</h3>
+  <a href="https://temuujin-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/mkae8/Temuujin-Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  </a>
+  <p>My personal portfolio website showcasing my projects and skills. Built with Next.js, Tailwind CSS, and Framer Motion.</p>
 </div>
 
 ## 📊 GitHub Stats
 
-<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkae8&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Temuujin's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkae8&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" alt="Most used languages" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkae8&theme=radical&hide_border=true" alt="Temuujin's Streak" />
 </div>
 
-<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkae8&theme=radical&hide_border=true" alt="Temuujin's Streak" />
-</div>
 
-<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkae8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+
 
 ## 🌱 Current Learning Goals
 
@@ -103,7 +106,5 @@ I'm a passionate full-stack developer who loves to create and contribute to open
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mkae8&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
-
----
 
 <p align="center">⭐️ From <a href="https://github.com/mkae8">Temuujin</a></p>
