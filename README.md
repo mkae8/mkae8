@@ -17,9 +17,7 @@
 
 I'm a passionate full-stack developer who loves to create and contribute to open-source projects. Currently, I'm leading a Pet Adoption project and always excited to learn new technologies.
 
-<details>
-<summary>🔧 Technologies & Tools</summary>
-<br>
+## 🔧 Technologies & Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,9 +39,7 @@ I'm a passionate full-stack developer who loves to create and contribute to open
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</details>
-
-## 🌟 Featured Portfolio
+## 🌟 Portfolio Website
 
 <div align="center">
   <table>
@@ -51,7 +47,7 @@ I'm a passionate full-stack developer who loves to create and contribute to open
       <td align="center" width="50%">
         <h3>Portfolio Website</h3>
         <a href="https://temuujin-portfolio.vercel.app" target="_blank">
-          <img src="https://via.placeholder.com/600x300?text=Portfolio+Website" width="100%" alt="Portfolio Website">
+          <img src="/placeholder.svg?height=300&width=600" width="100%" alt="Portfolio Website">
         </a>
         <br>
         <span>
