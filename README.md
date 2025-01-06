@@ -47,7 +47,7 @@ I'm a passionate full-stack developer who loves to create and contribute to open
     <td width="50%">
       <h3 align="center">Portfolio</h3>
       <p align="center">
-        <a href="https://github.com/mkae8/project-2" target="_blank">
+        <a href="https://github.com/mkae8/Temuujin-Portfolio target="_blank">
           <img src="https://via.placeholder.com/300x200?text=Project+2" width="300" alt="Project 2">
         </a>
         <span> <a href="https://github.com/mkae8/Temuujin-Portfolio" target="_blank">
