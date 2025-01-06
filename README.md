@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Temuujin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Open+Source+Enthusiast;Always+learning+new+things&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -50,7 +50,6 @@ I'm a passionate full-stack developer who loves to create and contribute to open
       <td align="center" width="50%">
         <h3>Portfolio Website</h3>
         <a href="https://temuujin-portfolio.vercel.app" target="_blank">
-          <img src="/black-is-more-cool.png" width="100%" alt="Portfolio Website">
         </a>
         <br>
         <span>
@@ -69,15 +68,15 @@ I'm a passionate full-stack developer who loves to create and contribute to open
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=mkae8&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Temuujin's GitHub Stats" />
 </div>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkae8&theme=radical&hide_border=true" alt="Temuujin's Streak" />
 </div>
 
-<div align="center">
+<div align="center" style="background: linear-gradient(to right, #ff7e5f, #feb47b); padding: 10px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkae8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
