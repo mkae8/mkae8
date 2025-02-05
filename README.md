@@ -6,17 +6,10 @@
   </a>
 </p>
 
-![Coding animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 <div align="center">
-  <a href="mailto:mkae.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mkae.dev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/mkae8">
-    <img src="https://img.shields.io/badge/Instagram-@mkae8-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" />
 </div>
+
 
 <br />
 
@@ -30,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
   
   <h3>Tools & Services</h3>
-  <img src="https://skillicons.dev/icons?i=vercel,github,git" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vercel,github,git,npm,notion,cloudflare" alt="Tools" />
 </div>
 
 ## 🌟 Portfolio
@@ -61,11 +54,12 @@
 ## 💬 Let's Connect!
 
 <div align="center">
-  <a href="https://instagram.com/mkae8">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:mkae.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+ <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/mkae8">
+     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </div>
 
