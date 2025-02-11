@@ -11,6 +11,10 @@
 </div>
 
 
+<div align="center">
+  <img src="https://tenor.com/view/spike-monkey-typing-gif-10973398" alt="Coding animation" />
+</div>
+
 <br />
 
 ## 🔧 Technologies & Tools
