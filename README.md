@@ -5,15 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
-
+  
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm0zNmxxazk1M2EzaDc4MGFhZ292aDdwYmd1MDhyNWlidnUyMGwzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGqDsE3owV0RO/giphy.gif" alt="Coding animation" />
 </div>
-
-
 <div align="center">
-  <img src="https://tenor.com/view/spike-monkey-typing-gif-10973398" alt="Coding animation" />
-</div>
+<p>😋 Work in joy 🕹️</p>
+  </div>
 
 <br />
 
