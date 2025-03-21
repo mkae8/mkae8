@@ -19,13 +19,13 @@
 
 <div align="center">
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,graphql" alt="Frontend Skills" />
   
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,postgresql" alt="Backend Skills" />
   
   <h3>Tools & Services</h3>
-  <img src="https://skillicons.dev/icons?i=vercel,github,git,npm,notion,cloudflare" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vercel,github,git,npm,notion,cloudflare,aws" alt="Tools" />
 </div>
 
 ## 🌟 Portfolio
