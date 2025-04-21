@@ -7,7 +7,7 @@
 </p>
   
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm0zNmxxazk1M2EzaDc4MGFhZ292aDdwYmd1MDhyNWlidnUyMGwzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGqDsE3owV0RO/giphy.gif" alt="Coding animation" />
+  <img src="https://i.pinimg.com/originals/c8/06/88/c80688de592c24e18a5aabfbf91dd135.gif" alt="Coding animation" />
 </div>
 <div align="center">
 <p>😋 Work in joy 🕹️</p>
