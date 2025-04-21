@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,postgresql" alt="Backend Skills" />
   
   <h3>Tools & Services</h3>
-  <img src="https://skillicons.dev/icons?i=vercel,github,git,npm,notion,cloudflare,aws" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vercel,github,npm,notion,cloudflare,aws,figma,docker" alt="Tools" />
 </div>
 
 ## 🌟 Portfolio
