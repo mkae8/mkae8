@@ -1,17 +1,12 @@
-<h1 align="center">Hi there, I'm Temuujin 👋</h1>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;" alt="Typing SVG" />
   </a>
 </p>
   
-<div align="center">
-  <img src="https://i.pinimg.com/originals/c8/06/88/c80688de592c24e18a5aabfbf91dd135.gif" alt="Coding animation" />
-</div>
-<div align="center">
-<p>😋 Work in joy 🕹️</p>
-  </div>
+
 
 <br />
 
