@@ -27,10 +27,10 @@
 
 <div align="center">
   <h3>Check Out My Work</h3>
-  <a href="https://temuujin-portfolio.vercel.app" target="_blank">
+  <a href="https://mkae-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
-  <a href="https://github.com/mkae8/Temuujin-Portfolio" target="_blank">
+  <a href="https://github.com/mkae8" target="_blank">
     <img src="https://img.shields.io/badge/-Repository-000?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
   <p>A showcase of my projects and skills. Built with Next.js, Tailwind CSS, and Framer Motion.</p>
