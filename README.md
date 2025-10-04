@@ -12,13 +12,13 @@
 <div align="center">
 
 ### 🖥️ Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,graphql" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,graphql,vite" alt="Frontend Skills" />
 
 ### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,postgresql" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,fastapi,postgresql,mysql" alt="Backend Skills" />
 
 ### 🛠️ Tools & Services  
-<img src="https://skillicons.dev/icons?i=vercel,github,npm,notion,cloudflare,aws,figma,docker" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vercel,github,npm,notion,cloudflare,aws,figma,docker,firebase" alt="Tools" />
 
 </div>
 
