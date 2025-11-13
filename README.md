@@ -1,12 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</p>
-
-
----
-
 ## 🔧 Technologies & Tools
 
 <div align="center">
